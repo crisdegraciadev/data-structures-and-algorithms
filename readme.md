@@ -15,7 +15,7 @@ DP is about solving and identifying all the subproblems of a big problem, memoiz
 
 In general, we can say that
 
-$PD = Recursion + Memoization$
+$$PD = Recursion + Memoization$$
 
 ### Resources
 
